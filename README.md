@@ -9,4 +9,6 @@ This mainly requires that each document have something unique about it that can 
 
 -You can run this as a job in the background and it will occasionally recheck your indexes for duplicates.
 
-This was done kind of on the fly. It works, but it isn't pretty. Maybe I'll make it better one day but for now it does what I need it to.
+
+
+This was done kind of on the fly. It works, but it isn't pretty. Maybe I'll make it better one day but for now it does what I need it to. If you need to use it, you'll need to change some paths and likely names as well. This is just to give an idea of a way to de-duplicate.
