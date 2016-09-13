@@ -12,3 +12,5 @@ This mainly requires that each document have something unique about it that can 
 
 
 This was done kind of on the fly. It works, but it isn't pretty. Maybe I'll make it better one day but for now it does what I need it to. If you need to use it, you'll need to change some paths and likely names as well. This is just to give an idea of a way to de-duplicate.
+
+UPDATE: It was Logstash giving me all the problems. I switched to just sending documents directly with a script using the ES API and my problems went away. Hopefully no one actually needs this.
